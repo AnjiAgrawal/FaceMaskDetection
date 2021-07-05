@@ -20,4 +20,4 @@ In the present scenario due to Covid-19, there is no efficient face mask detecti
 * Social Distance Monitoring
 * Real time reports and trends on mobile
 
-
+### *Do give a star if you like the project!*
